@@ -14,6 +14,7 @@ public class CinemaRoyal {
        System.out.println("Alteração 1.");
        System.out.println("Alteração 2.");
        System.out.println("Alteração 3.");
+       System.out.println("Alteração 3.");
         System.out.println("Informe a idade do usuário "+i);
         idade=s.nextInt();
 
