@@ -11,6 +11,7 @@ public class CinemaRoyal {
    soma = 0;
    for(i=1; i<=300; i++){ 
        Scanner s=new Scanner(System.in);
+       System.out.println("Alteração 1.");
         System.out.println("Informe a idade do usuário "+i);
         idade=s.nextInt();
 
@@ -39,7 +40,7 @@ public class CinemaRoyal {
                     menorid=idade;
         }
       System.out.println("O usuário mais velho tem "+maiorid);
-       System.out.println("O usuário mais novo tem "+menorid);  
+      System.out.println("O usuário mais novo tem "+menorid);  
      
    }  
        valortotal = valortotal+valor;
