@@ -12,6 +12,7 @@ public class CinemaRoyal {
    for(i=1; i<=300; i++){ 
        Scanner s=new Scanner(System.in);
        System.out.println("Alteração 1.");
+       System.out.println("Alteração 2.");
         System.out.println("Informe a idade do usuário "+i);
         idade=s.nextInt();
 
