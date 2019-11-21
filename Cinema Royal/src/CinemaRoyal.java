@@ -13,6 +13,7 @@ public class CinemaRoyal {
        Scanner s=new Scanner(System.in);
        System.out.println("Alteração 1.");
        System.out.println("Alteração 2.");
+       System.out.println("Volta para a master.");
         System.out.println("Informe a idade do usuário "+i);
         idade=s.nextInt();
 
